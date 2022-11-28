@@ -28,14 +28,11 @@ Here are some ideas to get you started:
 <div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=yellow"/>
   
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=blue"/>
 
 </div>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwdjjj)](https://github.com/dwdjjj/github-readme-stats)
 
