@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 
 <a href="https://opgc.me/#/users/dwdjjj" target="_blank"><img src="https://api.opgc.me/githubs/users/dwdjjj/tag/?theme=basic" /></a>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<a href="https://ko.reactjs.org">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwdjjj)](https://github.com/dwdjjj/github-readme-stats)
