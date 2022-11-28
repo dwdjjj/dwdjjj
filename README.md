@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dwdyj0514)](https://solved.ac/dwdyj0514)
 
 <a href="https://opgc.me/#/users/dwdjjj" target="_blank"><img src="https://api.opgc.me/githubs/users/dwdjjj/tag/?theme=basic" /></a>
-
+<div>
+  알고리즘 풀이 언어
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=black"/>  
+</div>
 <div>
   
-<a href="https://ko.reactjs.org"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
