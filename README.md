@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 ### 알고리즘 풀이 언어
 <div>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 </div>
 
 ### 개발 언어
