@@ -33,4 +33,4 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwdjjj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwdjjj&exclude_repo=OpenSourceSoftware&theme=dark)
